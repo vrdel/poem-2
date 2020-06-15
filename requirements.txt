@@ -41,6 +41,6 @@ sqlparse==0.3.1
 toml==0.10.0
 Unidecode==1.1.1
 urllib3==1.25.8
-virtualenv==20.0.15
+virtualenv==20.0.23
 virtualenv-clone==0.5.4
 zipp==3.1.0
